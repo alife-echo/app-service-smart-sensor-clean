@@ -1,0 +1,6 @@
+{
+    "ignorePatterns": ["jest.config.ts"],
+    "rules": {
+        
+    }
+}
